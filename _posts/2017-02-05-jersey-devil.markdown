@@ -10,6 +10,10 @@ header-img: "img/pineBarrens.jpg"
 
 <p> As a New Jerseyan, this one hits close to home. The Jersey Devil is a monster who hails from the Pine Barrens. The Pine Barrens are the perfect place to find a monster, as it is a massive sprawling uninhabited sandy floored pine forest. </p>
 
+<p>
+This is currently just a test
+</p>
+
 {% if page.comments %} 
 <div id="disqus_thread"></div>
 <script>
